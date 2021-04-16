@@ -26,8 +26,8 @@
     "test": "jest"
   },
   "peerDependencies": {
-    "react": "16.x",
-    "react-dom": "16.x"
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.1",
@@ -43,8 +43,8 @@
     "core-js": "^3.6.4",
     "jest": "^25.1.0",
     "lolex": "^6.0.0",
-    "react": "^16.13.0",
-    "react-dom": "^16.13.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
     "regenerator-runtime": "^0.13.3",
     "webpack": "^4.42.0",
     "webpack-bundle-analyzer": "^3.6.0",
@@ -52,7 +52,7 @@
     "webpack-merge": "^4.2.2"
   },
   "dependencies": {
-    "prop-types": "^15.6.2",
+    "prop-types": "^15.7.2",
     "raf": "^3.4.0"
   }
 }
